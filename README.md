@@ -19,8 +19,7 @@ I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulkarimatrash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCiIDHkrjI8sqQsqAXH70AVw)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=random-guest&show_icons=true)  
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=random-guest&show_icons=true&theme=dark&locale=en" alt="abdulkarimatrash" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=random-guest)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=random-guest&theme=dark" alt="abdulkarimatrash" /></p>
