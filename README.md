@@ -13,7 +13,7 @@ Skills: Python / C++ / OpenCV / ROS / PyTorch / TensorRT
 
 ## Get in touch :coffee:
 - Where you will find demos of some of my projects [YouTube](https://www.youtube.com/channel/UCiIDHkrjI8sqQsqAXH70AVw)
-- Where you will find your future employee [LinkedIn]([https://www.linkedin.com/in/sagarviradiya](https://www.linkedin.com/in/abdulkarimatrash/))
+- Where you will find your future employee [LinkedIn]((https://www.linkedin.com/in/abdulkarimatrash/))
 - And of course GitHub you're already on (Recursion).
 
 
