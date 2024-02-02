@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Abdulkarim
-#### I am a Computer Vision  & Machine Learning Engineer
 ![I am a Computer Vision  & Machine Learning Engineer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 <p align="center"> 
@@ -7,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/random-guest/count.svg" />
 </p>
 
+### Hi there 👋, my name is Abdulkarim
+#### I am a Computer Vision  & Machine Learning Engineer
 
 I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in the intersection of computer vision, machine learning, and software robotics. I enjoy morning runs and evening reading in my free time.
 
