@@ -1,9 +1,7 @@
 ![I am a Computer Vision  & Machine Learning Engineer](https://render.fineartamerica.com/images/rendered/default/wood-print/16/6.5/break/images/artworkimages/medium/3/b-ever-tried-ever-failed-no-matter-try-again-fail-again-fail-better-samuel-beckett-motivational-posters.jpg)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/random-guest/count.svg" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=random-guest&label=Profile%20views&color=0e75b6&style=flat-square" alt="AbdulkarimAtrash" /> </p>
+
 
 ### Hi there 👋, my name is Abdulkarim
 #### I am a Computer Vision  & Machine Learning Engineer
