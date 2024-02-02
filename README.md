@@ -1,4 +1,4 @@
-![I am a Computer Vision  & Machine Learning Engineer](https://miro.medium.com/v2/resize:fit:4000/1*bvnKtgVuSDNhig6F9iToRQ.jpeg)
+![I am a Computer Vision  & Machine Learning Engineer](https://render.fineartamerica.com/images/rendered/default/wood-print/16/6.5/break/images/artworkimages/medium/3/b-ever-tried-ever-failed-no-matter-try-again-fail-again-fail-better-samuel-beckett-motivational-posters.jpg)
 
 <p align="center"> 
   Visitor count<br>
