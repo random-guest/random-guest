@@ -10,7 +10,7 @@
 
 I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in the intersection of computer vision, machine learning, and software robotics. I enjoy morning runs and evening reading in my free time.
 
-Skills: Python / C++ / OpenCV / ROS / PyTorch / TensorRT
+### Skills: Python / C++ / OpenCV / ROS / PyTorch / TensorRT
 
 - 🔭 I’m currently working on 3D Computer Vision, NeRF, Robotics 
 - 💬 Ask me about Machine Learning & Computer Vision 
