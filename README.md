@@ -1,4 +1,4 @@
-![I am a Computer Vision  & Machine Learning Engineer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![I am a Computer Vision  & Machine Learning Engineer](https://miro.medium.com/v2/resize:fit:4000/1*bvnKtgVuSDNhig6F9iToRQ.jpeg)
 
 <p align="center"> 
   Visitor count<br>
