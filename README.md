@@ -7,7 +7,8 @@ I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in
 
 - 🔭 I’m currently working on 3D Computer Vision, NeRF, Robotics 
 - 💬 Ask me about Machine Learning & Computer Vision 
-- 📫 How to reach me: atrashabdulkarim@gmail.com 
+- 📫 How to reach me: atrashabdulkarim@gmail.com
+  
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulkarimatrash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCiIDHkrjI8sqQsqAXH70AVw)  
 
 <h3 align="left">Languages and Tools:</h3>
