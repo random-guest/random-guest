@@ -1,5 +1,6 @@
-![I am a Computer Vision  & Machine Learning Engineer](https://render.fineartamerica.com/images/rendered/default/wood-print/16/6.5/break/images/artworkimages/medium/3/b-ever-tried-ever-failed-no-matter-try-again-fail-again-fail-better-samuel-beckett-motivational-posters.jpg)
-
+<p align="center"> 
+  ![I am a Computer Vision  & Machine Learning Engineer](https://render.fineartamerica.com/images/rendered/default/wood-print/16/6.5/break/images/artworkimages/medium/3/b-ever-tried-ever-failed-no-matter-try-again-fail-again-fail-better-samuel-beckett-motivational-posters.jpg)
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/random-guest/count.svg" />
