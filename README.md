@@ -21,7 +21,6 @@ I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=random-guest&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/random-guest)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=random-guest)  
 
