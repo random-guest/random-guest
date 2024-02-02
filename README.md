@@ -5,7 +5,7 @@
 <h3 align="left">About Me:</h3>
 I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in the intersection of computer vision, machine learning, and software robotics. I enjoy morning runs and evening reading in my free time.
 
-- 🔭 I’m currently working on 3D Computer Vision, NeRF, Robotics 
+- 🔭 I’m currently working on Computer Vision, Machine Learning, Deep Learning, NeRF, Robotics 
 - 💬 Ask me about Machine Learning & Computer Vision 
 - 📫 How to reach me: atrashabdulkarim@gmail.com
   
