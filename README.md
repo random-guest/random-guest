@@ -2,6 +2,7 @@
 <h3 align="center">I am a Computer Vision & Machine Learning Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=random-guest&label=Profile%20views&color=0e75b6&style=flat-square" alt="AbdulkarimAtrash" /> </p>
 
+
 <h3 align="left">About Me:</h3>
 I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in the intersection of computer vision, machine learning, and software robotics. I enjoy morning runs and evening reading in my free time.
 
