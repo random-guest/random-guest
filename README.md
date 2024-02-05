@@ -6,7 +6,6 @@
 <h3 align="left">About Me:</h3>
 I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in the intersection of computer vision, machine learning, robotics, and web development. In my spare time, I enjoy morning runs and evening reading.
 
-- 🔭 I’m currently working on Dense 3D Reconstruction using NeRF-based Algorithms.
 - 💬 Ask me about Machine Learning, Computer Vision, Robotics, and Web Development. 
 - 📫 How to reach me: atrashabdulkarim@gmail.com
   
