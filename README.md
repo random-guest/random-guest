@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulkarim Atrash</h1>
-<h3 align="center">I am interested in Computer Vision & Machine Learning Engineer</h3>
+<h3 align="center">I am a Computer Vision & Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=random-guest&label=Profile%20views&color=0e75b6&style=flat-square" alt="AbdulkarimAtrash" /> </p>
 
 
