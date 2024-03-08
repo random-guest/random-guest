@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulkarim Atrash</h1>
-<h3 align="center">I am passionate about computer vision, machine learning, and front-end web development.</h3>
+<h3 align="center">I am Computer Vision & Machine Learning Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=random-guest&label=Profile%20views&color=0e75b6&style=flat-square" alt="AbdulkarimAtrash" /> </p>
 
 
 <h3 align="left">About Me:</h3>
-I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in computer vision, machine learning, robotics, and front-end web development. In my spare time, I enjoy morning runs and evening reading.
+I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in computer vision, machine learning, and robotics. In my spare time, I enjoy morning runs and evening reading.
 
 - 💬 Ask me about Machine Learning, Computer Vision, Robotics, & Front-End Development. 
 - 📫 How to reach me: atrashabdulkarim@gmail.com
