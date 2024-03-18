@@ -6,7 +6,7 @@
 <h3 align="left">About Me:</h3>
 I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in computer vision, machine learning, and robotics. In my spare time, I enjoy morning runs and evening reading.
 
-- 💬 Ask me about Machine Learning, Computer Vision, Robotics, & Front-End Development. 
+- 💬 Ask me about Machine Learning & Computer Vision.
 - 📫 How to reach me: atrashabdulkarim@gmail.com
   
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulkarimatrash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCiIDHkrjI8sqQsqAXH70AVw)  
