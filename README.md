@@ -4,7 +4,7 @@
 
 
 <h3 align="left">About Me:</h3>
-I hold a BS. degree in Electrical & Electronics Engineering and an MS. degree in Scientific Computing from Middle East Technical University. I am interested in computer vision, machine learning, and robotics. In my spare time, I enjoy morning runs and evening reading.
+I hold a BS in Electrical & Electronics Engineering and an MS in Scientific Computing from Middle East Technical University. I am interested in computer vision & machine learning In my spare time, I enjoy morning runs and evening reading.
 
 - 💬 Ask me about Machine Learning & Computer Vision.
 - 📫 How to reach me: atrashabdulkarim@gmail.com
