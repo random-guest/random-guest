@@ -7,6 +7,7 @@
   
 </p align="left">
 - 💬 I am interested in **Real-time Video Analytics Solutions**.
+
 - 📫 You can reach me at **atrashabdulkarim@gmail.com**.
 </p>
 
