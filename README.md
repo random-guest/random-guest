@@ -7,7 +7,7 @@
 
 - 💬 I am interested in **Computer Vision & Deep Learning**.
 - 📫 You can reach me at **atrashabdulkarim@gmail.com**.
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@abdulkarimatrash/playlists](https://www.youtube.com/@abdulkarimatrash/playlists)
+- 👨‍💻 My porjects' demos are available at [https://www.youtube.com/@abdulkarimatrash/playlists](https://www.youtube.com/@abdulkarimatrash/playlists)
 </p>
 
 
