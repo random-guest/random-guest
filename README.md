@@ -1,23 +1,28 @@
-<h1 align="center">Hi 👋, I'm Abdulkarim Atrash</h1>
-<h3 align="center">I am Computer Vision & Machine Learning Engineer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=random-guest&label=Profile%20views&color=0e75b6&style=flat-square" alt="AbdulkarimAtrash" /> </p>
-
-
-<h3 align="left">About Me:</h3>
-I hold a BS in Electrical & Electronics Engineering and currently working towards an MS in Scientific Computing from Middle East Technical University. I am interested in computer vision & machine learning. In my spare time, I enjoy morning runs and evening reading.
-
-- 💬 Ask me about Machine Learning & Computer Vision.
-- 📫 How to reach me: atrashabdulkarim@gmail.com
+<div align="center">
   
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulkarimatrash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCiIDHkrjI8sqQsqAXH70AVw)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&vCenter=true&width=650&lines=Hi%2C+I'm+Abdulkarim.+Computer+Vision+Machine+Learning+Engineer;Ever Tried+Ever Failed+No Matter+Try again+Fail Again+Fail Better)](https://git.io/typing-svg)
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="random-guest" /> </p>
+
+- 📷 I am sharing my project demos on my youtube account [**https://www.youtube.com/@abdulkarimatrash/playlists**)
+- 💬 I have experience on **Computer Vision, Machine Learning and Deep Learning**
+- 📫 If any question you can write email to me **atrashabdulkarim@gmail.com**
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=random-guest&theme=radical)](https://git.io/streak-stats)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=random-guest&show_icons=true&theme=dark&locale=en" alt="abdulkarimatrash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=random-guest&theme=dark" alt="abdulkarimatrash" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=random-guest&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-guest&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
