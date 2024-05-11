@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&vCenter=true&width=650&lines=Hi%2C+I'm+Abdulkarim.+Computer+Vision+Machine+&+Learning+Engineer+.+.+.;Ever+Tried+Ever+Failed+No+Matter+Try+again+Fail+Again+Fail+Better+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&vCenter=true&width=650&lines=Hi%2C+I'm+Abdulkarim.+Computer+Vision+Machine+And+Learning+Engineer;Ever+Tried+Ever+Failed+No+Matter+Try+again+Fail+Again+Fail+Better+!)](https://git.io/typing-svg)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="random-guest" /> </p>
