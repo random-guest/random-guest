@@ -5,9 +5,10 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=random-guest&label=Profile%20views&color=0e75b6&style=flat-square" alt="AbdulkarimAtrash" /> </p>
 
-- 📷 I am sharing my project demos on my YouTube account [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCiIDHkrjI8sqQsqAXH70AVw)
-- 💬 I am interested in **Computer Vision & Deep Learning**
-- 📫 You can reach me at **atrashabdulkarim@gmail.com** or via LinkedIn [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulkarimatrash/)
+- 💬 I am interested in **Computer Vision & Deep Learning**.
+- 📫 You can reach me at **atrashabdulkarim@gmail.com**.
+- LinkedIn
+- YouTube 
 </p>
 
 
