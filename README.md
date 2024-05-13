@@ -7,7 +7,7 @@
   
 </p>
 
-- 📫 You can reach me at **atrashabdulkarim@gmail.com**.
+- 📫 Free free to reach out via **atrashabdulkarim@gmail.com**.
   
 </p>
 
