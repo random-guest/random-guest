@@ -7,9 +7,7 @@
   
 </p>
 
-- 📫 Free free to reach out via **atrashabdulkarim@gmail.com**
-- I share some cool project demo's here **https://www.youtube.com/@abdulkarimatrash/videos**
-  
+- 📫 Free free to reach out via **atrashabdulkarim@gmail.com**  
 </p>
 
 
