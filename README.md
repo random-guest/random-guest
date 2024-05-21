@@ -7,7 +7,9 @@
   
 </p>
 
-- 📫 Free free to reach out via **atrashabdulkarim@gmail.com**  
+- 📫 Feel free to reach out via **atrashabdulkarim@gmail.com**
+- 🎥 Check out some of my project's Demos on **https://www.youtube.com/@abdulkarimatrash/videos**
+- 🧑🏻‍💻 I am actively practicing my **C++** skills on HackerRank on **https://www.hackerrank.com/profile/atrashabdulkarim**
 </p>
 
 
